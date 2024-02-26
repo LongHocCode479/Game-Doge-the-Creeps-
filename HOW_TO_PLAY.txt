@@ -1,0 +1,9 @@
+HOW TO PLAY ?
+
+1. MAIN_GAME_HERE folder contain a .exe file to play the game
+2. Use "Space" or "Enter" to start the game
+3. Use 4 arrows or "A" "S" "D" "W" to move the character
+4. Enjoy the game :)))
+ 
+(--A clone game in Godot engine document version 4.1.1--)
+https://docs.godotengine.org/en/4.1/getting_started/first_2d_game/index.html
